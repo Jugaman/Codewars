@@ -1,2 +1,2 @@
 # Codewars
-Codewars Javascript algorithms katas solutions
+Codewars Javascript katas solutions
