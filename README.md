@@ -1,2 +1,2 @@
 # Codewars
-Codewars katas solut
+Codewars katas solu
